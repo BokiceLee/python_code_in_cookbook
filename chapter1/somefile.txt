@@ -1,0 +1,20 @@
+ for li in lines:
+ t4a4g
+ ageg
+ aegrhrh
+ shresrehse
+         python in li:
+            yield li, previous_lines
+            previous_lines.append(li)
+            python
+            eafefawefa
+            fa
+            ewfaef python
+            fawfe python3
+            aweg
+                        fawfe python4
+                        ag
+                                    fawfe python5
+                                    efa
+                                                fawfe python6
+                                                                                                fawfe python6
