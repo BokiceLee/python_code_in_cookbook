@@ -18,11 +18,11 @@ print(d)
 #做法对比
 #一般做法
 d = {}
-for key, value in pairs:
-    if key not in d:
-        d[key] = []
-    d[key].append(value)
+#for key, value in pairs:
+ #   if key not in d:
+#        d[key] = []
+#    d[key].append(value)
 #defaultdict
-d = defaultdict(list)
-for key, value in pairs:
-    d[key].append(value)
+#d = defaultdict(list)
+#for key, value in pairs:
+#    d[key].append(value)
