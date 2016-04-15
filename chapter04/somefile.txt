@@ -1,0 +1,8 @@
+# for li in lines:
+# t4a4g
+ ageg
+ aegrhrh
+# shresrehse
+         python in li:
+            yield li, previous_lines
+            previous_lines.append(li)                                                                 fawfe python6
